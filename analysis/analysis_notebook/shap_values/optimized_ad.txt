@@ -1,0 +1,1 @@
+204 0.836 {'objective': 'binary:logistic', 'eta': 0.41000000000000003, 'max_depth': 9, 'tree_method': 'gpu_hist', 'gamma': 0.01, 'min_child_weight': 11, 'max_delta_step': 6, 'lambda': 1, 'eval_metric': 'auc'}
